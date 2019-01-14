@@ -1,0 +1,96 @@
+
+body {
+    background-image: url(https://picsum.photos/1366?image=896);
+    background-repeat: no-repeat;
+    margin: 0;
+    text-align: left;
+}
+.bold {
+    font-weight: 600;
+    font-size: 1.5em;
+}
+p {
+    /* font-family: 'Charm', cursive; */
+    font-family: 'Amatic SC', cursive;
+    font-weight: 600;
+    margin: 0;
+}
+.one {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 5%;
+}
+.two {
+    font-size: 20px;
+    margin-left: 10%;
+}
+.three {
+    font-size: 22px;
+    margin-left: 5%;
+}
+.four {
+    font-size: 24px;
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
+.five {
+    font-size: 26px;
+    margin-left: 32.5%;
+}
+.six {
+    font-size: 28px;
+    margin-left: 37.5%;
+}
+.seven {
+    font-size: 30px;
+    margin-left: 32.5%;
+}
+.eight {
+    font-size: 32px;
+    margin-left: 37.5%;
+    margin-bottom: 10px;
+}
+.nine {
+    font-size: 34px;
+    margin-left: 65%;
+}
+.ten{
+    font-size: 36px;
+    margin-left: 70%;
+}
+.eleven {
+    font-size: 40px;
+    margin-left: 65%;
+}
+.twelve{
+    font-size: 42px;
+    margin-left: 70%;
+    margin-bottom: 30px;
+}
+.thirteen{
+    font-size: 48px;
+    margin-left: 5%;
+    margin-bottom: 2px;
+}
+.fourteen {
+    font-size: 50px;
+    margin-left: 25%;
+    margin-bottom: 2px;
+}
+.fifteen {
+    font-size: 52px;
+    margin-left: 45%;
+    margin-bottom: 2px;
+}
+.sixteen {
+    font-size: 54px;
+    margin-left: 67%;
+    margin-bottom: 30px;
+}
+.halo {
+    color: #AED8D7;
+}
+.whisper{
+    font-size: .5em;
+    font-style: italic;
+}
